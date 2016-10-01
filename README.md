@@ -1,6 +1,8 @@
 Retro8
 ======
 
+![Sample text](sample.png)
+
 Development
 -----------
 
