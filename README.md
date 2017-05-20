@@ -6,5 +6,6 @@ Retro8
 Development
 -----------
 
-* Created in [FontStruct](http://fontstruct.com).
-* Use [FontForge](https://fontforge.github.io) to change metadata.
+* [FontForge](https://fontforge.github.io/)
+* [ttfautohint](https://www.freetype.org/ttfautohint/): default settings except
+  all "Strong Stem Width and Positioning" options enabled.
