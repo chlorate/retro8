@@ -1,6 +1,12 @@
 Changelog
 =========
 
+1.1.0
+-----
+
+* Double point size.
+* Add kerning.
+
 1.0.0 (2016-08-21)
 ------------------
 
