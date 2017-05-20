@@ -1,17 +1,18 @@
 StartChar: logicalnot
 Encoding: 172 172 110
-Width: 384
+Width: 768
+VWidth: 2048
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-192 128 m 1,0,-1
- 192 192 l 1,1,-1
- 0 192 l 1,2,-1
- 0 256 l 1,3,-1
- 320 256 l 1,4,-1
- 320 128 l 1,5,-1
- 192 128 l 1,0,-1
+384 256 m 1,0,-1
+ 384 384 l 1,1,-1
+ 0 384 l 1,2,-1
+ 0 512 l 1,3,-1
+ 640 512 l 1,4,-1
+ 640 256 l 1,5,-1
+ 384 256 l 1,0,-1
 EndSplineSet
 EndChar

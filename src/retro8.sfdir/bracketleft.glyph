@@ -1,19 +1,20 @@
 StartChar: bracketleft
 Encoding: 91 91 62
-Width: 256
+Width: 512
+VWidth: 2048
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-0 -64 m 1,0,-1
- 0 448 l 1,1,-1
- 192 448 l 1,2,-1
- 192 384 l 1,3,-1
- 64 384 l 1,4,-1
- 64 0 l 1,5,-1
- 192 0 l 1,6,-1
- 192 -64 l 1,7,-1
- 0 -64 l 1,0,-1
+0 -128 m 1,0,-1
+ 0 896 l 1,1,-1
+ 384 896 l 1,2,-1
+ 384 768 l 1,3,-1
+ 128 768 l 1,4,-1
+ 128 0 l 1,5,-1
+ 384 0 l 1,6,-1
+ 384 -128 l 1,7,-1
+ 0 -128 l 1,0,-1
 EndSplineSet
 EndChar

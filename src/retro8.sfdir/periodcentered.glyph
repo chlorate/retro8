@@ -1,15 +1,16 @@
 StartChar: periodcentered
 Encoding: 183 183 120
-Width: 192
+Width: 384
+VWidth: 2048
 GlyphClass: 2
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-0 128 m 1,0,-1
- 0 256 l 1,1,-1
- 128 256 l 1,2,-1
- 128 128 l 1,3,-1
- 0 128 l 1,0,-1
+0 256 m 1,0,-1
+ 0 512 l 1,1,-1
+ 256 512 l 1,2,-1
+ 256 256 l 1,3,-1
+ 0 256 l 1,0,-1
 EndSplineSet
 EndChar
