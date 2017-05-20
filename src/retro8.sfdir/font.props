@@ -3,8 +3,8 @@ FontName: Retro8
 FullName: Retro8 Regular
 FamilyName: Retro8
 Weight: Book
-Copyright: 2012-2016 @chlorate_
-Version: 1.0.0
+Copyright: 2012-2017 @chlorate_
+Version: 1.1.0
 ItalicAngle: 0
 UnderlinePosition: -25
 UnderlineWidth: 51
@@ -22,7 +22,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1471818075
-ModificationTime: 1495309354
+ModificationTime: 1495309490
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
