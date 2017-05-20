@@ -22,7 +22,7 @@ OS2Version: 2
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1471818075
-ModificationTime: 1495309579
+ModificationTime: 1495310827
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -57,8 +57,31 @@ OS2XHeight: 640
 OS2Vendor: '    '
 OS2CodePages: 00000001.00000000
 OS2UnicodeRanges: a0000007.4000000a.00000000.00000000
+Lookup: 258 0 0 "kerning" { "kerning" [128,128,6] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
+KernClass2: 11 11 "kerning"
+ 17 a b c e h m n o p
+ 1 f
+ 57 A B C G H I J K M N O P R U W X Z d i k l r s t u v w x z
+ 1 D
+ 1 E
+ 1 F
+ 1 L
+ 1 S
+ 1 T
+ 3 V Y
+ 1 a
+ 11 c e g o q s
+ 1 f
+ 1 j
+ 1 t
+ 1 v
+ 1 J
+ 1 T
+ 1 V
+ 1 Y
+ 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -256 {} 0 {} 0 {} 0 {} -128 {} 0 {} 0 {} 0 {} -128 {} 0 {} 0 {} -256 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -256 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -256 {} 0 {} 0 {} 0 {} -128 {} 0 {} 0 {} 0 {} 0 {} 0 {} -128 {} -256 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -128 {} -128 {} -128 {} -256 {} 0 {} 0 {} -128 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -128 {} -256 {} -128 {} -128 {} 0 {} -256 {} -128 {} -256 {} 0 {} 0 {} 0 {} 0 {} -256 {} -128 {} 0 {} 0 {} -128 {} 0 {} 0 {} 0 {} -128 {} -128 {} -128 {} -256 {} 0 {} 0 {} -256 {} 0 {} 0 {} 0 {} 0 {} -128 {} 0 {} 0 {} -256 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {}
 ShortTable: maxp 16
   1
   0
