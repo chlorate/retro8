@@ -1,0 +1,15 @@
+StartChar: bar
+Encoding: 124 124 95
+Width: 128
+GlyphClass: 2
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+0 -128 m 1,0,-1
+ 0 512 l 1,1,-1
+ 64 512 l 1,2,-1
+ 64 -128 l 1,3,-1
+ 0 -128 l 1,0,-1
+EndSplineSet
+EndChar
